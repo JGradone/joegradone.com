@@ -22,13 +22,13 @@ repository               : "https://github.com/JGradone"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Joe Gradone"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Oceanographer"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Rutgers University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jgradone@marine.rutgers.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
