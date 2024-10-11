@@ -9,6 +9,7 @@ header:
   image: /images/masthead.jpg
 ---
 
+{% include base_path %}
 
 **I'm a physical oceanographer excited about utilizing my background in industry, science, and engineering to leverage different ocean observing technologies to solve problems of practical and societal importance.**
 
